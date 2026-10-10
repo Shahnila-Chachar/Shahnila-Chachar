@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140">
-<defs>
-<linearGradient id="f1" x1="0" x2="1"><stop offset="0" stop-color="#312E81"/><stop offset="1" stop-color="#1E3A8A"/></linearGradient>
-<linearGradient id="f2" x1="0" x2="1"><stop offset="0" stop-color="#1E1B4B"/><stop offset="1" stop-color="#0B1020"/></linearGradient>
-</defs>
-<path d="M0 40 C 200 0, 400 80, 600 40 S 1000 0, 1200 40 V140 H0 Z" fill="url(#f1)" opacity=".7"/>
-<path d="M0 62 C 220 20, 420 100, 640 60 S 1010 24, 1200 62 V140 H0 Z" fill="url(#f2)"/>
-<text x="600" y="102" text-anchor="middle" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="19" font-style="italic" fill="#C7D2FE" letter-spacing="1">Keep learning  &#8226;  Keep building  &#8226;  Keep growing</text>
-</svg>
