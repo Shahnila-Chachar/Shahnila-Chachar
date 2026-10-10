@@ -1,23 +1,15 @@
-# 👋 Hi, I'm Shahnila Chachar
+ <div align="center">
 
-<div align="center">
+# 💜 Shahnila Chachar
 
-### 💜 Aspiring Full Stack Developer | CS Student
+### BS Computer Science Student | Aspiring Full Stack Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&width=600&lines=BS+Computer+Science+Student;MERN+Stack+Development+Intern;Learning+by+Building+Projects;Exploring+Web+Development" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Learning+%26+Building+Every+Day;MERN+Stack+Development+Intern;Turning+Ideas+Into+Projects;Progress+Over+Perfection" alt="Typing animation" />
 
-<p>
-  <a href="https://github.com/Shahnila-Chachar">
-    <img src="https://komarev.com/ghpvc/?username=Shahnila-Chachar&label=Profile%20Views&color=8b5cf6&style=for-the-badge" alt="Profile views" />
-  </a>
-</p>
+🎓 Sukkur IBA University &nbsp; • &nbsp; 🇵🇰 Pakistan &nbsp; • &nbsp; 💻 MERN Stack Intern at XICTEK Systems
 
-<a href="https://www.linkedin.com/in/shahnila-chachar-5a0aa731a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://github.com/Shahnila-Chachar">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-6D5AE6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahnila-chachar-5a0aa731a/)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shahnila-Chachar)
 
 </div>
 
@@ -25,91 +17,94 @@
 
 ## 🌷 About Me
 
-- 🎓 BS Computer Science student at **Sukkur IBA University**.
-- 💻 Currently working as a **MERN Stack Development Intern at XICTEK Systems**.
-- 🌱 Learning full-stack web development and strengthening my programming fundamentals.
-- 🛠️ Interested in building practical projects and solving real-world problems.
-- 🤝 Open to collaborating on beginner-friendly open-source and web development projects.
-- ✨ I believe in learning by building, improving, and staying consistent.
+Hi, I'm **Shahnila!** 👋
 
----
+I'm a Computer Science student passionate about web development, programming, and building useful projects.
 
-## 💻 Tech Stack
+- 🌱 Currently learning full-stack development (MERN + Next.js).
+- 💻 Working as a MERN Stack Development Intern at XICTEK Systems.
+- 🧠 Strengthening my programming fundamentals and DSA.
+- 🤝 Open to collaboration, learning, and open-source projects.
+- ✨ My motto: Progress over perfection.
 
-### 🌐 Web Development
+## 🛠️ Tech Stack
+
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+**Backend & Database**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 💻 Programming Languages
+**Programming & Tools**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Tools & Technologies
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-8B5CF6?style=for-the-badge)
-
----
 
 ## 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| 🌦️ Climate Hazard Monitoring and Alert System | A project focused on monitoring climate hazards and providing alerts. | Java, OOP |
-| 🏭 Atta Chakki Management System | A database project for managing customers, products, billing, and unpaid balances. | Java, JDBC, MySQL |
-| 🧮 Calculator | A simple calculator project. | HTML, CSS, JavaScript |
+<table>
+<tr>
+<td width="50%">
 
-> More projects and improvements coming soon! 💜
+### 🌦️ Climate Hazard Monitoring
 
----
+Java OOP project focused on monitoring climate hazards and generating alerts.
 
-## 📊 GitHub Statistics
+**Tech:** Java · OOP
+
+</td>
+<td width="50%">
+
+### 🏭 Atta Chakki Management System
+
+Database project for managing customers, products, billing, and unpaid balances.
+
+**Tech:** Java · JDBC · MySQL
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🧮 Calculator
+
+A calculator project built while developing frontend skills.
+
+**Tech:** HTML · CSS · JavaScript
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Shahnila-Chachar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shahnila-Chachar&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnila-Chachar&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahnila-Chachar&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahnila-Chachar&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shahnila-Chachar&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 
 </div>
 
 ---
 
-## 🐍 My Contribution Journey
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+### 💜 Let's Learn, Build & Grow Together
 
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<div align="center">
-
-I'm always happy to learn, connect, and collaborate with fellow developers.
-
-<a href="https://www.linkedin.com/in/shahnila-chachar-5a0aa731a/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
-</a>
-
-<br/><br/>
-
-### 💜 *Keep learning. Keep building. Keep growing.*
+*Keep learning • Keep building • Keep growing*
 
 </div>
