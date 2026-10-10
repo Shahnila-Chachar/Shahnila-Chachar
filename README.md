@@ -22,7 +22,7 @@
 
 Hi, I'm **Shahnila!** 👋
 
-I'm a **3rd-year BS Computer Science** student at **Sukkur IBA University**, currently working as a **MERN Stack Development Intern** at **XICTEK Systems**.
+I'm a **2nd-year BS Computer Science** student at **Sukkur IBA University**, currently working as a **MERN Stack Development Intern** at **XICTEK Systems**.
 
 I'm passionate about web development, problem solving and building useful projects that make a difference.
 
